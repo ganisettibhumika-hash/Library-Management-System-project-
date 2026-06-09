@@ -1,1 +1,1 @@
-https://github.com/ganisettibhumika/Library-Management-System
+https://github.com/BhumikaGanisetti/Library-Management-System
